@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Avonna - happy and restless housewife who loves to learn, data science and self-develop
-- 👀 I’m interested in ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=flat&logo=python&logoColor=white), ML, CV, Python, Psychology, Stage Directing, Acting, German, French, English, Сooking, Runes, Esotericism, Reiki, Tarot cards, Playing the violin and saxophone, foreign culture
+ :woman_technologist: About Me :
+- 👋 Hi, I’m @Avona 	:vulcan_salute: - happy and restless housewife :partying_face: who loves to learn :woman_teacher:, ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=flat&logo=python&logoColor=white) and self-develop :heart_on_fire:
+- 👀 I’m interested in ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=flat&logo=python&logoColor=white), ML, CV, ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white), Psychology, Stage Directing, Acting, German, French, English, Сooking, Runes, Esotericism, Reiki, Tarot cards, Playing the violin and saxophone, foreign culture
 - 🌱  I’m currently learning ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=flat&logo=python&logoColor=white) and ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-- 💞️ I’m looking to collaborate on communication and development in the field of data science
+- 💞️ I’m looking to collaborate on communication :curly_haired_woman: and development in the field of ![Data Science](https://img.shields.io/badge/-Data%20Science-blue?style=flat&logo=python&logoColor=white)
 - 📫 How to reach me [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)]( https://t.me/Ok_Eva) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yevdokimova/)
 [![VK](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/oksana_ev)
